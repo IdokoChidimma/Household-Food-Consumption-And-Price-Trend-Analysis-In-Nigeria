@@ -1,8 +1,9 @@
 # Household-Food-Consumption-And-Price-Trend-Analysis-In-Nigeria
-<img width="1036" height="550" alt="FULL TABLE" src="https://github.com/user-attachments/assets/9b8c699a-5e42-44af-980f-31844e935e00" />
+
+<img width="1036" height="550" alt="FULL TABLE" src="https://github.com/user-attachments/assets/e7ce0d51-2aec-40b8-b9b6-d90fc8087ae1" />
 
 
-<img width="1003" height="535" alt="Screenshot 2025-07-10 at 23-14-41 Nigeria Average Food Price pdf" src="https://github.com/user-attachments/assets/502d7d10-716a-44bf-8b59-c1e65323d8e5" />
+<img width="1003" height="535" alt="Regional_Overview" src="https://github.com/user-attachments/assets/0a6372a6-9660-4e4d-ab4f-92d62db6d887" />
 
 
 ## INTRODUCTION
@@ -102,7 +103,7 @@ The data presented in the household food consumption dashboard highlights severa
 
 ### 1. What is the overall percentage increase in food prices within the month period?
 
-  <img width="497" height="192" alt="MONTH" src="https://github.com/user-attachments/assets/45e5bbe2-47cf-42fa-b8b9-39ada2766080" />
+ <img width="497" height="192" alt="MONTH" src="https://github.com/user-attachments/assets/9a06c14f-142f-4823-9409-4bdbed0cd563" />
 
  ### ✅ Insight:
 * Sharp increase in Monthly Average Prices
@@ -111,14 +112,17 @@ The data presented in the household food consumption dashboard highlights severa
 * The price of selected food items has more than doubled within a year and three months.
   
 ### 2. Which category dominates the top spots? What does this ranking reveal about consumer protein options?
-  <img width="495" height="193" alt="TOP 10 By AVerage Price" src="https://github.com/user-attachments/assets/6ffc39ac-8138-402d-9959-a0f48af43f8b" />
-  
+
+  <img width="495" height="193" alt="TOP 10 By AVerage Price" src="https://github.com/user-attachments/assets/39ed4cf4-b0af-4166-8015-75771b57390e" />
+
 ### ✅ Insight:
 * Frozen Chicken, Boneless Beef, and Catfish (dried) top the price list, with Frozen Chicken hitting ₦2,380.
 * These are protein Protein consumption in Nigeria is already low due to affordability challenges. A continuous rise in protein costs risks.
   
 ### 3. Which food item shows the widest regional price difference?
-  <img width="578" height="319" alt="1O" src="https://github.com/user-attachments/assets/57ac8805-3373-467d-9fdb-6e024e1de619" />
+
+  <img width="578" height="319" alt="1O" src="https://github.com/user-attachments/assets/922942b6-dbfb-4cdc-b809-ff2e7e7ed2f8" />
+
   
   ### ✅ Insight:
  * South East ( ₦6,527) has the highest regional average, which may be due to high consumption, longer transport routes, or greater reliance on preserved or imported items,
@@ -126,7 +130,10 @@ The data presented in the household food consumption dashboard highlights severa
 * Catfish dried shows the most significant variation, which results to differences in preservation costs, accessibility to fish farming, or probably market demand.
 
 ### 4. Which item is the most expensive and in which state?
-<img width="531" height="307" alt="STATE-WISE PRICE VARIATION OF SELECTED FOOD ITEMS IN NIGERIA" src="https://github.com/user-attachments/assets/6815ca0d-706a-4fc6-ae68-03c65de3c4c4" />
+
+<img width="531" height="307" alt="STATE-WISE PRICE VARIATION OF SELECTED FOOD ITEMS IN NIGERIA" src="https://github.com/user-attachments/assets/dcd438c6-0ac2-4014-8d4d-95fbc807f4f3" />
+
+
 ### ✅ Insight:
 
 * Catfish (Dried) at ₦12,190 in Imo State.
@@ -142,8 +149,9 @@ The data presented in the household food consumption dashboard highlights severa
 * Lower cost of living or economic pressure on pricing.
   
 ### 5. Which region has the highest average food price?
-  <img width="365" height="332" alt="AVERAGE PRICE" src="https://github.com/user-attachments/assets/18f3e890-86a7-477e-8b89-d08543cf6aea" />
-  
+
+  <img width="365" height="332" alt="AVERAGE PRICE" src="https://github.com/user-attachments/assets/8c27efb1-40a5-4e69-bd6b-15915f2ecd0b" />
+
 ### ✅ Insight:
 
 * South East (₦3,400) has the highest regional average.
